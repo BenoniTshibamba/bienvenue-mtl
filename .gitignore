@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.db
+*.db-journal
+.env
+.DS_Store
+
+# Working files (not part of the public repo)
+FRENCH-REVIEW.txt
+LINKEDIN-PROJECT-DRAFT.md

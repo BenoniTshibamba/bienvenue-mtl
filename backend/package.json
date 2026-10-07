@@ -1,0 +1,1 @@
+{"dependencies":{"bienvenue-mtl":"file:..","cookie-parser":"^1.4.6","cors":"^2.8.5","express":"^4.21.2","express-jwt-refresh":"^1.0.0"},"name":"bienvenue-mtl-backend","private":true,"type":"commonjs","version":"1.0.0"}
